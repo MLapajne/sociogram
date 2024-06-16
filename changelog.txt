@@ -1,0 +1,35 @@
+- Sociogram 6.0
+    - Posodobitev ikon - todo
+    - Posodobitev izgleda - todo
+    - Izbris mape export na mvn clean - todo
+    - Avtomatizacija izdelave installov - todo
+
+- Sociogram 5.5 changelog (2022-09-XX)
+    - Nadgradnja na Java 18 iz Java 1.8.0 u202
+    - Nadgradnja knjižnic (Jackson, Radiance)
+    - Posodobitev namestitve
+    - Izboljšava prilagajanja ikon glede na širino okna
+    - Čiščenje datotek projekta
+    - Izboljšava in pohitritev delovanja JTable za vnašanje rezultatov.
+    - Posodobljen način zaganjanja grafičnega vmesnika.
+    - Implementacija novega zalednega sistema za administratorja.
+    - Odprava napake pri zapiranju glavnega okna aplikacije.
+    - Implementacija uporabe spletnih storitev namesto neposrednega povezovanja na podatkovno bazo.
+    - Dodan prikaz logotipa aplikacije v menijski vrstici tekom zagona programa.
+    - Zamenjava okroglega gumba z "Datoteka" - vključno s prevodi.
+
+- Sociogram 5.1 changelog
+    - povečanje prostora za vnos - DONE
+    - problem pri vnosu anket -> javljanje, da ni popolno - DONE
+    - catalina comments:
+		Comment 1: We will add tooltips. - DONE
+		Comment 2: We did not want to include additional buttons in the seurvey section. But we will remember saving path. - DONE
+    - Spremembe na spletni strani za licence:
+        - grupiranje: uspešne aktivacije po naročnikih, neveljavne aktivacije
+        - dodajanje sociograma 5.1 in posodabljanje števila licenc tistim, ki so kupili v5.0
+    - posodobitev sociogram spletne strani
+    - posodobitev CSV modula - DONE
+    - popravek printanja
+
+- Sociogram 5.1 (2020-11-07)
+    - TRIAL added
